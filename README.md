@@ -20,10 +20,16 @@
   <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
 </p>
 
+<br/>
+
 <h4 align="center">🎇 My Infomation 🎇</h4>
 <p align="center">
   <a href="https://github.com/LimJiNa"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
+  <!-- <a href="https://https://jinalim-dev.tistory.com//"><img src="https://img.shields.io/badge/Tistory-0DBD8B?style=flat-square&logo=Telegraph&logoColor=white"/></a>&nbsp; -->
+  <a href="jn4624@gmail.com"><img src="https://img.shields.io/badge/Gmail-F80000?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
 
 <!--### Hi there 👋
 
