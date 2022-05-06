@@ -20,6 +20,11 @@
   <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
 </p>
 
+<h4 align="center">🎇 My Infomation 🎇</h4>
+<p align="center">
+  <a href="https://github.com/LimJiNa"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
+</p>
+
 <!--### Hi there 👋
 
 
