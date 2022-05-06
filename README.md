@@ -1,6 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JiNaLim&fontSize=90)
 
-<!--
+<h3 align="center">🔖 Stack 🔖</h3>
+
+<!--### Hi there 👋
+
+
 **LimJiNa/LimJiNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
