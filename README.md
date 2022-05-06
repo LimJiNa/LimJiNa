@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JiNaLim&fontSize=90)
 
-<h3 align="center">✨ My Stack ✨</h3>
+<h3 align="center">✨ My Stack</h3>
 
 <!--### Hi there 👋
 
