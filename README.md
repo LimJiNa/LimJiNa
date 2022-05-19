@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JiNaLim&fontSize=90)
 
-<h4 align="center">💻 Stack 💻</h4>
+<h4 align="center">💻 Stack</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
@@ -22,7 +22,7 @@
 
 <br/>
 
-<h4 align="center">✨ Infomation ✨</h4>
+<h4 align="center">✨ Infomation</h4>
 <p align="center">
   <a href="https://github.com/LimJiNa"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
   <a href="https://jinalim-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-0DBD8B?style=flat-square&logo=Telegraph&logoColor=white"/></a>&nbsp;
