@@ -29,6 +29,12 @@
   <a href="jn4624@gmail.com"><img src="https://img.shields.io/badge/Gmail-F80000?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
 </p>
 
+<br/>
+
+<div align=center>
+
+![LimJiNa's github stats](https://github-readme-stats.vercel.app/api?username=LimJiNa&show_icons=true)
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
 
 <!--### Hi there 👋
