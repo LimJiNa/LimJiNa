@@ -26,9 +26,9 @@
 
 <a href="https://opgc.me/#/users/LimJiNa" target="_blank"><img src="https://api.opgc.me/githubs/users/LimJiNa/tag/?theme=basic" /></a>
 
-![LimJiNa's github stats](https://github-readme-stats.vercel.app/api?username=LimJiNa&show_icons=true)
-
 ![LimJiNa's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jn4624)
+
+![LimJiNa's github stats](https://github-readme-stats.vercel.app/api?username=LimJiNa&show_icons=true)
 
 <br/>
 
@@ -40,20 +40,3 @@
 </p>
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
-
-<!--### Hi there 👋
-
-
-**LimJiNa/LimJiNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
