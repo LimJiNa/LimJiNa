@@ -36,7 +36,7 @@
 
 ![LimJiNa's github stats](https://github-readme-stats.vercel.app/api?username=LimJiNa&show_icons=true)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jn4624)](https://solved.ac/jn4624)
+![LimJiNa's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jn4624)
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
 
