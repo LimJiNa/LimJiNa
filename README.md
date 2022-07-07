@@ -28,7 +28,7 @@
 
 ![LimJiNa's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jn4624)
 
-![LimJiNa's github stats](https://github-readme-stats.vercel.app/api?username=LimJiNa&show_icons=true)
+<!--![LimJiNa's github stats](https://github-readme-stats.vercel.app/api?username=LimJiNa&show_icons=true)-->
 
 <br/>
 
