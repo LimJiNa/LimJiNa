@@ -24,6 +24,8 @@
 
 <div align=center>
 
+<a href="https://opgc.me/#/users/LimJiNa" target="_blank"><img src="https://api.opgc.me/githubs/users/LimJiNa/tag/?theme=basic" /></a>
+
 ![LimJiNa's github stats](https://github-readme-stats.vercel.app/api?username=LimJiNa&show_icons=true)
 
 ![LimJiNa's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jn4624)
